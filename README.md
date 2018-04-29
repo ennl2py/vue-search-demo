@@ -1,21 +1,12 @@
-# vue-search-demo
+##vue-search-demo
+Vue.js2 练手项目(排版布局方面差强人意，部分样式有作参考)，所用知识点如下
+> 单文件组件
+> Vue CSS过渡效果 
 
-> vue-search-demo
+#如何运行
+将本项目下载到本地
+> 1.需要node环境
+> 2.安装项目依赖 npm install
+> 3.运行项目 npm run dev
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+* [演示地址](https://ennl2py.github.io/vue-search-demo/)
